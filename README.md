@@ -13,7 +13,7 @@
 
 - 🧋 Fun fact **I occasionally play games**
 
-- 🫀 I love **I love traveling and learning about the culture of the country I've been in. I also really love sports such as kickboxing and tennis**
+- 🫀 I love **I love traveling and learning about the culture of the country I've been in**
 
 </p>
 
