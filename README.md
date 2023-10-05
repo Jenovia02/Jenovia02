@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jessica</h1>
+<h1 align="center">Hello there, I'm Jessica</h1>
 <h3 align="center">A passionate Cybersecurity Analyst student</h3>
+<p align="center">
+<img width="1000" alt="Screenshot 2023-10-05 024420" src="https://github.com/Jenovia02/Jenovia02/assets/134729946/0c978c1f-ee84-43e9-87be-216c81a5dd1c">
+</p>
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+ <img src="https://github.com/Jenovia02/Jenovia02/assets/134729946/add11566-517d-4d45-b8f7-6945867496d8)"  width="60" height="60"/>
 </p>
+
 
 - 📑 I’m currently studying **Cybersecurity**
 
