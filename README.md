@@ -11,7 +11,9 @@
 
 - 🤝 I’m looking for help with **Coding and Ethical Hacking**
 
-- 🧋 Fun fact **I love traveling and learning about the culture of the country I've been in. I also really love sports such as kickboxing and tennis**
+- 🧋 Fun fact **I occasionally play games**
+
+- 🫀 I love **I love traveling and learning about the culture of the country I've been in. I also really love sports such as kickboxing and tennis**
 
 </p>
 
