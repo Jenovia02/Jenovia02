@@ -1,9 +1,9 @@
-<h1 align="center">Hello there, I'm Jessica</h1>
-<h3 align="center">A passionate Cybersecurity Analyst student</h3>
 <p align="center">
-<img width="1000" alt="Screenshot 2023-10-05 024420" src="https://github.com/Jenovia02/Jenovia02/assets/134729946/0c978c1f-ee84-43e9-87be-216c81a5dd1c">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=100&size=19&duration=4997&pause=1000&color=F72068&center=true&random=false&width=435&lines=Hello+there%2C+I'm+Jessica;I'm+learning+Cybersecurity+Analyst;Welcome+to+my+journey!!" alt="Typing SVG" /></a>
 </p>
 
+<img width="1000" alt="Screenshot 2023-10-05 024420" src="https://github.com/Jenovia02/Jenovia02/assets/134729946/0c978c1f-ee84-43e9-87be-216c81a5dd1c">
+</p>
 
 <p align="center">
  <img src="https://github.com/Jenovia02/Jenovia02/assets/134729946/add11566-517d-4d45-b8f7-6945867496d8)"  width="60" height="60"/>
