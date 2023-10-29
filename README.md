@@ -10,15 +10,14 @@
 </p>
 
 
-- 📑 I’m currently studying **Cybersecurity**
+- 💻 I’m currently learning **Cybersecurity**
 
-- 🥊 I’m currently learning **Kickboxing**
+- ✈️ I like to **Travel**
 
 - 🤝 I’m looking for help with **Coding and Ethical Hacking**
 
-- 🧋 Fun fact **I occasionally play games**
+- 🎭 Fun fact **I occasionally play games**
 
-- 🫀 I love **I love traveling and learning about the culture of the country I've been in**
 
 </p>
 
